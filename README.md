@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sheikh Rehan </h1>
-<h3 align="center">Python Developer </h3>
+<h3 align="center">Full Stack Developer </h3>
 
 - 🔭 I’m currently pursuing **Bachelor of computer application**
 
-- 🌱 I’m currently learning **Web development , Python Programming**
+- 🌱 I’m currently learning **Web development , Full Stack devlopment**
 
 - 📫 How to reach me **shekhrehanayaz@gmail.com**
 
